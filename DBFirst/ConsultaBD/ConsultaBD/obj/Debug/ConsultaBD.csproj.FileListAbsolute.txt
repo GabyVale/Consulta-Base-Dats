@@ -1,0 +1,15 @@
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\ConsultaBD.exe.config
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\ConsultaBD.exe
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\ConsultaBD.pdb
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\EntityFramework.dll
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\EntityFramework.xml
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.csprojAssemblyReference.cache
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.Form1.resources
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.Properties.Resources.resources
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.csproj.GenerateResource.cache
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.csproj.CoreCompileInputs.cache
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.csproj.CopyComplete
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.exe
+C:\Users\valenciag\Documents\Hitss\C#\DBFirst\ConsultaBD\ConsultaBD\obj\Debug\ConsultaBD.pdb
